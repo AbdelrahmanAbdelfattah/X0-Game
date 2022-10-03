@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MC/Projects/X0_Game_OOP/Board.cpp
+Board.h
+D:/MC/Projects/X0_Game_OOP/Board.h
+iostream
+-
+
+D:/MC/Projects/X0_Game_OOP/Board.h
+
+D:/MC/Projects/X0_Game_OOP/PlayGame.cpp
+PlayGame.h
+D:/MC/Projects/X0_Game_OOP/PlayGame.h
+iostream
+-
+
+D:/MC/Projects/X0_Game_OOP/PlayGame.h
+Winner.h
+D:/MC/Projects/X0_Game_OOP/Winner.h
+Board.h
+D:/MC/Projects/X0_Game_OOP/Board.h
+
+D:/MC/Projects/X0_Game_OOP/Winner.cpp
+Winner.h
+D:/MC/Projects/X0_Game_OOP/Winner.h
+
+D:/MC/Projects/X0_Game_OOP/Winner.h
+
+D:/MC/Projects/X0_Game_OOP/main.cpp
+iostream
+-
+Board.h
+D:/MC/Projects/X0_Game_OOP/Board.h
+PlayGame.h
+D:/MC/Projects/X0_Game_OOP/PlayGame.h
+
